@@ -4,7 +4,7 @@ Pronounced "toy"
 
 Terraform Output Input (toi)
 
-A utility to convert terraform output to json or tfvars.
+A utility to convert terraform output to json or tfvars for interoperability between HashiCorp tools.
 
 ## Description
 
