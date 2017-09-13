@@ -10,7 +10,7 @@ This utility converts Terraform output to json or key-value format to be passed 
 setup(
     name = 'toi',
     packages = ['toi'],
-    version = '1.0.0',
+    version = '1.0.1',
     license='MIT',
     description = 'Converts terraform output to key/vals or json',
     long_description=long_description,
