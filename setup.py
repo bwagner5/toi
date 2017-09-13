@@ -15,12 +15,11 @@ setup(
     description = 'Converts terraform output to key/vals or json',
     long_description=long_description,
     author = 'Brandon Wagner',
+    author_email = 'brandon@brandonwagner.info',
     maintainer = 'Brandon Wagner',
     url = 'https://github.com/bwagner5/toi',
-    download_url = '',
-    keywords = ['Terraform', 'Packer', 'HashiCorp']
-    py_modules = [],
-    scripts = ['toi'],
+    download_url = 'https://github.com/bwagner5/toi/archive/1.0.0.tar.gz',
+    keywords = ['Terraform', 'Packer', 'HashiCorp'],
     zip_safe = True,
     install_requires=[]
 )
