@@ -18,7 +18,7 @@ toi was created to make this process easy. toi can transform terraform output in
 
 ## Installation
 
-`./setup.py install`
+`pip install toi`
 
 And then you can:
 
